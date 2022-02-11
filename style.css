@@ -47,7 +47,7 @@ body{
     flex-wrap: wrap;
     justify-content: space-around;
 }
-.h2 h2{
+.h2 h1{
     color: hsl(218, 44%, 22%);
 }
 p{
